@@ -1,5 +1,7 @@
 # binspect
 
+[![CI](https://github.com/AsmiMishra/binspect/actions/workflows/ci.yml/badge.svg)](https://github.com/AsmiMishra/binspect/actions/workflows/ci.yml)
+
 A from-scratch **ELF and PE binary inspector**, written to learn (and demonstrate) the fundamentals of static binary analysis — the same category of reasoning used in reverse engineering, malware triage, and vulnerability research.
 
 ```
